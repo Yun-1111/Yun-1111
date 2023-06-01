@@ -1,11 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Yun-1111+homepage" alt="Typing SVG" /></a>
 
-<!--
-**Yun-1111/Yun-1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Asia University.
+- 🌱 I’m currently teaching Deep Learning.
+- 👯 I’m looking to collaborate on AIGC.
 
-- 🔭 我就讀於亞洲大學 商應系三年級
-- 🌱 I'm currently studying big data.
--->
 <table>
   <tbody>
     <tr>
