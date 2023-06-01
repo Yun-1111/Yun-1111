@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🌱 喜歡看電影 (movie)
-- 👯 歡迎交朋友 (friend)
-- 💬 可以問我問題呦 (question)
-- ⚡ 一起旅遊吧 (travel)
+- 🌱 (movie)
+- 👯 (friend)
+- 💬 (question)
+- ⚡ (travel)
 -->
 <table>
   <tbody>
