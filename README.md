@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Yun-1111+homepage" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on Asia University.
-- 🌱 I’m currently teaching Deep Learning.
-- 👯 I’m looking to collaborate on AIGC.
+- 🧸  I am currently studying at Asia University.
+- 🧸  I'm currently studying big data.
+- 🧸  我希望交到很多好朋友💕  
 
 <table>
   <tbody>
