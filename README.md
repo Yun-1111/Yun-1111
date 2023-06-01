@@ -1,15 +1,14 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Yun-1111+homepage" alt="Typing SVG" /></a>👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Yun-1111+homepage" alt="Typing SVG" /></a>
 
 <!--
 **Yun-1111/Yun-1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🌱 喜歡看電影 (movie)
+- 👯 歡迎交朋友 (friend)
+- 💬 可以問我問題呦 (question)
+- ⚡ 一起旅遊吧 (travel)
 -->
 <table>
   <tbody>
