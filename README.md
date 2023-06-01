@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Yun-1111+homepage🌻 " alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Yun-1111+homepage " alt="Typing SVG" /></a>
 
 - 🧸  我就讀於亞洲大學 商應系三年級📘 
 - 🧸  喜歡旅遊~看海、爬山、去網霉景點🎀 
