@@ -5,10 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 (movie)
-- 👯 (friend)
-- 💬 (question)
-- ⚡ (travel)
+- 🔭 I’m currently working on Asia University.
+- 🌱 I’m currently teaching Deep Learning.
+- 👯 I’m looking to collaborate on AIGC.
 -->
 <table>
   <tbody>
