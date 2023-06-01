@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 ---
 
 ### Github Analytics
-<a href="https://github.com/Yun-1111">
-  <img src="https://github-readme-stats.vercel.app/api?username=htchu&count_private=true&show_icons=true&include_all_commits=true" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yun-1111)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yun-1111=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yun-1111&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yun-1111&show_icons=true&theme=radical)
 
 ### Most Used Languages
 <a href="https://github.com/Yun-1111">
