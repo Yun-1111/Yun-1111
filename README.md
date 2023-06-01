@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Asia University.
-- 🌱 I’m currently teaching Deep Learning.
-- 👯 I’m looking to collaborate on AIGC.
+- 🔭 My profession is a student
+- 🌱 I'm currently studying big data.
 -->
 <table>
   <tbody>
