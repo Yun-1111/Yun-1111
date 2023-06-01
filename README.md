@@ -24,6 +24,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yun-1111&show_icons=true&theme=radical)
 
 ### Most Used Languages
-<a href="https://github.com/Yun-1111">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htchu&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yun-1111)](https://github.com/anuraghazra/github-readme-stats)
