@@ -3,9 +3,7 @@
 <!--
 **Yun-1111/Yun-1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 My profession is a student
+- 🔭 我就讀於亞洲大學 商應系三年級
 - 🌱 I'm currently studying big data.
 -->
 <table>
